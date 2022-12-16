@@ -1,0 +1,5 @@
+c:\Users\dell\Documents\KULIAH\SEMESTER 1\DASAR PEMROGRAMAN\obj\Debug\net7.0\DASAR PEMROGRAMAN.csproj.AssemblyReference.cache
+c:\Users\dell\Documents\KULIAH\SEMESTER 1\DASAR PEMROGRAMAN\obj\Debug\net7.0\DASAR PEMROGRAMAN.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dell\Documents\KULIAH\SEMESTER 1\DASAR PEMROGRAMAN\obj\Debug\net7.0\DASAR PEMROGRAMAN.AssemblyInfoInputs.cache
+c:\Users\dell\Documents\KULIAH\SEMESTER 1\DASAR PEMROGRAMAN\obj\Debug\net7.0\DASAR PEMROGRAMAN.AssemblyInfo.cs
+c:\Users\dell\Documents\KULIAH\SEMESTER 1\DASAR PEMROGRAMAN\obj\Debug\net7.0\DASAR PEMROGRAMAN.csproj.CoreCompileInputs.cache
