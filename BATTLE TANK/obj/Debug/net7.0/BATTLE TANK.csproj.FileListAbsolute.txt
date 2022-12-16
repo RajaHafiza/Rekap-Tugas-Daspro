@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\BATTLE TANK\bin\Debug\net7.0\BATTLE TANK.exe
+C:\Users\dell\Desktop\BATTLE TANK\bin\Debug\net7.0\BATTLE TANK.deps.json
+C:\Users\dell\Desktop\BATTLE TANK\bin\Debug\net7.0\BATTLE TANK.runtimeconfig.json
+C:\Users\dell\Desktop\BATTLE TANK\bin\Debug\net7.0\BATTLE TANK.dll
+C:\Users\dell\Desktop\BATTLE TANK\bin\Debug\net7.0\BATTLE TANK.pdb
+C:\Users\dell\Desktop\BATTLE TANK\obj\Debug\net7.0\BATTLE TANK.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\BATTLE TANK\obj\Debug\net7.0\BATTLE TANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\BATTLE TANK\obj\Debug\net7.0\BATTLE TANK.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\BATTLE TANK\obj\Debug\net7.0\BATTLE TANK.AssemblyInfo.cs
+C:\Users\dell\Desktop\BATTLE TANK\obj\Debug\net7.0\BATTLE TANK.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\BATTLE TANK\obj\Debug\net7.0\BATTLE TANK.dll
+C:\Users\dell\Desktop\BATTLE TANK\obj\Debug\net7.0\refint\BATTLE TANK.dll
+C:\Users\dell\Desktop\BATTLE TANK\obj\Debug\net7.0\BATTLE TANK.pdb
+C:\Users\dell\Desktop\BATTLE TANK\obj\Debug\net7.0\BATTLE TANK.genruntimeconfig.cache
+C:\Users\dell\Desktop\BATTLE TANK\obj\Debug\net7.0\ref\BATTLE TANK.dll
